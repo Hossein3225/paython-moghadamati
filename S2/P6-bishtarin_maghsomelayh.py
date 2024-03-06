@@ -6,7 +6,7 @@ def maghsom_(x):
         if x%i ==0:
             c += 1
     return(c)
-
+#try
 tedad = 20
 B_maghsom = 0
 B_adad = 0
